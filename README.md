@@ -94,6 +94,4 @@ travel-planner · itinerary · linked-list · javascript · dsa · data-structur
 📱 Improve mobile responsiveness and animations
 
 
-This project is open-source and available under the MIT License
-.
-You’re free to use, modify, and share it with proper credit.
+
