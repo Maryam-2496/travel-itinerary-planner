@@ -94,4 +94,16 @@ travel-planner · itinerary · linked-list · javascript · dsa · data-structur
 📱 Improve mobile responsiveness and animations
 
 
+🟣Screenshots:
+<img width="1883" height="859" alt="image" src="https://github.com/user-attachments/assets/7f11ba35-44c9-4f26-b291-f2c69f6f0b28" />
+<img width="1919" height="844" alt="image" src="https://github.com/user-attachments/assets/04b7fa77-7977-4e7f-8b43-ca88aad921b7" />
+<img width="1876" height="788" alt="image" src="https://github.com/user-attachments/assets/51c4f3c5-051b-42fe-b285-e97cbe3fbb33" />
+<img width="1904" height="849" alt="image" src="https://github.com/user-attachments/assets/806420dd-6239-4f1c-bb9d-62e8f0f61afa" />
+<img width="1853" height="923" alt="image" src="https://github.com/user-attachments/assets/6a31db52-a0da-43ff-ada7-7db8998bcd88" />
+
+
+
+
+
+
 
